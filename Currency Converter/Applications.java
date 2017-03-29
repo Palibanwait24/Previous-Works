@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 /**
  * @author Amrit Pal Banwait
  *CS160-01 Fall 2014
- *project 3
+ *project 3m
  *
  *
  */
